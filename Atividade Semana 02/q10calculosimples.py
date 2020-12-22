@@ -1,7 +1,6 @@
 a, b, c = input().split(" ")
 d, e, f = input().split(" ")
 
-
 a = int(a)
 b = int(b)
 c = float(c)
